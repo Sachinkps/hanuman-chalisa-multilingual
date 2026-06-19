@@ -1,0 +1,3 @@
+-keep class com.sachinkps.hanumanChalisa.data.models.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
